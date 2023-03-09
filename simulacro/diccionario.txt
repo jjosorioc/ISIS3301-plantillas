@@ -1,0 +1,35 @@
+Sexo: Sexo del pasajero (F, M)
+
+TipoCliente: (Cliente frecuente, cliente esporÃ¡dico)
+
+Edad: Edad actual del pasajero
+
+TipoViaje: PropÃ³sito del viaje personal o negocios(Personal, Negocios)
+
+Clase: Clase en la que viaja el pasajero (Negocios, EconÃ³mica, Muy econÃ³mica)
+
+DistanciaRecorrida: Distancia recorrida en el viaje
+
+SatServicioWifi: Nivel de satisfacciÃ³n del servicio de wifi (0:No Aplica;1-5)
+
+SatPuntualidad: Nivel de satisfcciÃ³n de la puntualidad 
+
+SatComidaBebidas: Nivel de satisfaccÃ³n con comida y bebidas
+
+ComodidadSilla: Nivel de satisfaccÃ³n con la comodidad de la silla
+
+SatEntretenimiento: Nivel de satisfaccÃ³n con el entretenimiento provisto en el viaje
+
+SatServicioAbordo: Nivel de satisfaccÃ³n con el servicio a bordo
+
+NivelLimpieza: Nivel de satisfaccÃ³n con la limpieza del aviÃ³n
+
+MinRetrasoSalida: Minutos de retraso en la salida
+
+Satisfaccion: Nivel de satisfacciÃ³n con el vuelo(Satisfecho, neutro o insatisfecho)
+
+---
+Aclaraciones:
+
+Los niveles de satisfacciÃ³n varÃ­an en un rango de 0 a 5
+Clase negocios no existe, existe clase ejecutiva.
